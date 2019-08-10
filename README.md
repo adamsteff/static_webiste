@@ -1,1 +1,1 @@
-# static_webiste
+# static_website
